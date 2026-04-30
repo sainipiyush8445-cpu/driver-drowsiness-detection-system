@@ -1,0 +1,6 @@
+tensorflow>=2.10
+mediapipe>=0.10
+opencv-python>=4.7
+numpy>=1.23
+matplotlib>=3.6
+tqdm>=4.65
